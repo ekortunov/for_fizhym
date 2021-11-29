@@ -2,3 +2,5 @@ ipywidgets
 numpy
 matplotlib
 ipykernel
+voila
+ipympl
